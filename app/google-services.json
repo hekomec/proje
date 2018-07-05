@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "460681521262",
+    "firebase_url": "https://huupapp-a9aa6.firebaseio.com",
+    "project_id": "huupapp-a9aa6",
+    "storage_bucket": "huupapp-a9aa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460681521262:android:badbc8b255b31e92",
+        "android_client_info": {
+          "package_name": "com.deneme.hekotech.proje1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460681521262-p4u3j7fl6sq808v8075keaohfb95s2d8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deneme.hekotech.proje1",
+            "certificate_hash": "fba58c782b65096d4d4eb1d4822070008738d034"
+          }
+        },
+        {
+          "client_id": "460681521262-srs8jg71dg7bu1nfljg29o04rpainemh.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "460681521262-srs8jg71dg7bu1nfljg29o04rpainemh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhZBniseiyY-AQwnhTYQ64N4fnFdQHZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460681521262-srs8jg71dg7bu1nfljg29o04rpainemh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "460681521262-j23qhqlnif3dmidrfbfk95237coi9phu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hekotech.huup"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
